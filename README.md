@@ -1,4 +1,4 @@
-# GetAJob
-Job Searching Website with PHP Mailer
-Backend: PHP
+# GetAJob  
+Job Searching Website with PHP Mailer  
+Backend: PHP  
 Frontend: HTML, CSS, Javascript
